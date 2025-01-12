@@ -1,7 +1,7 @@
 {
     "name": "roqmeu/roadrunner-messenger",
     "type": "symfony-messenger-bridge",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "description": "Symfony RoadRunner extension Messenger Bridge",
     "keywords": [],
     "license": "MIT",
